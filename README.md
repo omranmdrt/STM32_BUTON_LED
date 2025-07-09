@@ -26,14 +26,3 @@ Butona her basıldığında LED’in durumu (açık/kapalı) değişir. Projede 
 - `main.c` ve `main.h` dosyalarında uygulama kodları bulunmaktadır.  
 - Buton durumu okuma, debouncing kontrolü ve LED durum değişikliği burada yapılmaktadır.
 
-## Derleme ve Yükleme
-
-Projeyi STM32CubeIDE veya tercih ettiğiniz başka bir araç ile derleyip STM32 mikrodenetleyiciye yükleyebilirsiniz.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.  
-
----
-
-**Not:** Proje öğrenme amaçlı hazırlanmıştır. Herhangi bir ticari kullanım öncesinde gerekli testler yapılmalıdır.
